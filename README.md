@@ -5,27 +5,28 @@ This document outlines the upskilling initiatives designed for data scientists a
 
 ## Fundamental Skills Maintenance
 
+The following checklist outlines the fundamental skills required for effective software development:
+
 - [ ] **Python**: 
-  - Master the syntax and core libraries.
-  - Practice writing scripts and automating tasks.
-  - Explore frameworks like Flask or Django for web development.
+  - Mastery of syntax and core libraries.
+  - Proficiency in writing scripts and automating tasks.
+  - Understanding of frameworks such as Flask or Django for web development.
 
 - [ ] **SQL**: 
-  - Understand relational database concepts.
-  - Practice writing complex queries and optimizing performance.
-  - Familiarize yourself with database management systems like PostgreSQL or MySQL.
+  - Mastery of relational database concepts.
+  - Proficiency in writing complex queries and optimizing performance.
+  - Familiarity with database management systems like PostgreSQL or MySQL.
 
 - [ ] **Data Structures and Algorithms (DSA)**: 
-  - Review common data structures (arrays, linked lists, trees, graphs).
-  - Solve algorithmic problems to enhance problem-solving skills.
-  - Study time and space complexity for efficient coding.
+  - Mastery of common data structures (arrays, linked lists, trees, graphs).
+  - Proficiency in solving algorithmic problems to enhance problem-solving skills.
+  - Understanding of time and space complexity for efficient coding.
 
 - [ ] **System Design**: 
-  - Learn the principles of scalable architecture.
-  - Practice designing systems with high availability and fault tolerance.
-  - Understand trade-offs in design decisions and performance optimization.
+  - Mastery of principles of scalable architecture.
+  - Proficiency in designing systems with high availability and fault tolerance.
+  - Understanding of trade-offs in design decisions and performance optimization.
 
-Regularly revisiting and practicing these skills will ensure you remain proficient and adaptable in the ever-evolving tech landscape.
 
 
 Technical Skills Enhancement <br>
