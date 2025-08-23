@@ -23,7 +23,7 @@ the following checklist outlines the fundamental skills required for effective s
   - understanding of time and space complexity for efficient coding.
      
 - [ ] **data science fundamentals**: 
-  - proficiency with classic machine learning theory and implementation.
+  - proficiency with classic machine learning theory and implementation. Including but not limited to core statistical models e.g. lda, random forest, svm, neural network, etc. Ideally applied to computer vision and nlp settings.
   - proficiency with practical data science reasoning including but not limited to data preprocessing, model selection, training and validation, bias variance tradeoffs, regularization & overfitting, performance evaluation.
   - proficiency with mathematical foundations in statistics, linear algebra, relevant calculus, probability theory, and optimization theory.
   - proficiency with libraries including but not limited to scikit-learn, seaborn, matplotlib.
