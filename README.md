@@ -22,8 +22,8 @@ the following checklist outlines the fundamental skills required for effective s
   - proficiency in solving algorithmic problems to enhance problem-solving skills.
   - understanding of time and space complexity for efficient coding.
      
-  - [ ] **data science fundamentals**: 
-  - mastery of classic machine learning theory and implementation.
+- [ ] **data science fundamentals**: 
+  - comfortable with classic machine learning theory and implementation.
   - comfortable with practical data science reasoning including but not limited to data preprocessing, model selection, training and validation, bias variance tradeoffs, regularization & overfitting, performance evaluation.
   - comfortable with mathematical foundations in statistics, linear algebra, relevant calculus, probability theory, and optimization theory.
 
