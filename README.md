@@ -11,7 +11,7 @@ the following checklist outlines the fundamental skills required for effective s
   - mastery of syntax and core libraries.
   - proficiency in writing scripts and automating tasks.
   - understanding of frameworks such as flask or django for web development.
-
+  
 - [ ] **sql**: 
   - mastery of relational database concepts.
   - proficiency in writing complex queries and optimizing performance.
@@ -21,6 +21,11 @@ the following checklist outlines the fundamental skills required for effective s
   - mastery of common data structures (arrays, linked lists, trees, graphs).
   - proficiency in solving algorithmic problems to enhance problem-solving skills.
   - understanding of time and space complexity for efficient coding.
+     
+  - [ ] **data science fundamentals**: 
+  - mastery of classic machine learning theory and implementation.
+  - comfortable with practical data science reasoning including but not limited to data preprocessing, model selection, training and validation, bias variance tradeoffs, regularization & overfitting, performance evaluation.
+  - comfortable with mathematical foundations in statistics, linear algebra, relevant calculus, probability theory, and optimization theory.
 
 - [ ] **system design**: 
   - mastery of principles of scalable architecture.
@@ -47,8 +52,10 @@ the following checklist outlines the fundamental skills required for effective s
 - [ ] **generative ai**: 
   - **Understanding of Foundation Models**: Familiarity with large language models (LLMs) and large multimodal models (LMMs) and their applications in healthcare.
   - **Application Evaluation Framework**: Ability to assess whether to build an AI application and evaluate its effectiveness.
+  - **ai app engineering**: able to develop working end to end application integrating including but not limited to foundation models, multimodal llms, retrieval augmented generation (rag).
   - **Hallucination Detection**: Knowledge of causes and strategies for detecting and mitigating hallucinations in AI outputs.
   - **Prompt Engineering**: Skills in crafting effective prompts to optimize the performance of LLMs and LMMs.
+  - **agentic ai**: comfortable with cursor and similar agentic tools for the acceleration, streamlining, and scaling of development workflows.
 
 - [ ] **case studies**: 
   - **Real-World Application Analysis**: Ability to analyze and discuss real-world case studies of software engineering solutions in healthcare.
