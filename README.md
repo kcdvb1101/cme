@@ -36,7 +36,7 @@ the following checklist outlines the fundamental skills required for effective s
 
 ## technical skills enhancement
 
-the following checklist outlines the fundamental skills required for effective software development:
+the following checklist outlines the relevant skills required for effective software development in 2025:
 
 - [ ] **integration of deep learning**: 
   - **proficiency in deep learning frameworks**: experience with **tensorflow** and **pytorch** for building and training models.
