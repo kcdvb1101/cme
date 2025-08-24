@@ -10,16 +10,21 @@ the following checklist outlines the fundamental skills required for effective s
 - [ ] **python**: 
   - mastery of syntax and core libraries.
   - proficiency in writing scripts and automating tasks.
-  - understanding of frameworks such as flask or django for web development.
+  - understanding of frameworks such as flask or django for web development. **Nice to have**
   
 - [ ] **sql**: 
   - mastery of relational database concepts.
   - proficiency in writing complex queries and optimizing performance.
   - familiarity with database management systems like postgresql or mysql.
+  - required fluency: SELECT * FROM (standard query) ALTER, INSERT, CREATE, GROUP BY, ORDER BY, WHERE, AND, OR, BETWEEN, IN,
+  - required fluency: HAVING (filter tables), AVG, COUNT, MIN, MAX, SUM (aggregate fns)
+  - required fluency: FULL JOIN, LEFT JOIN, RIGHT JOIN, OUTER JOIN, INNER JOIN
+  - required fluency: DATEADD, DATEDIFF, DATEPART (date and time functions)
+  - **nice to have** hackerrank sql up to meds and hards
 
 - [ ] **data structures and algorithms (dsa)**: 
   - mastery of common data structures (arrays, linked lists, trees, graphs).
-  - proficiency in solving algorithmic problems to enhance problem-solving skills.
+  - proficiency in solving algorithmic problems to enhance problem-solving skills. **Ideally codeforces 1600+ or equivalent but not required**
   - understanding of time and space complexity for efficient coding.
      
 - [ ] **data science fundamentals**: 
